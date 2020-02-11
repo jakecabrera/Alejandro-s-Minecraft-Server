@@ -76,3 +76,47 @@
 [19:51:37] [Server thread/INFO]: pyrodude111 joined the game
 [19:54:19] [Server thread/INFO]: pyrodude111 lost connection: Disconnected
 [19:54:19] [Server thread/INFO]: pyrodude111 left the game
+[22:35:31] [User Authenticator #9/INFO]: UUID of player Pyromaniac707 is 03a9acea-a02a-4cc4-9885-be25b0b19719
+[22:35:31] [Server thread/INFO]: Pyromaniac707[/184.23.19.6:64049] logged in with entity id 1830 at (-370.43885911983733, 69.0, -55.07044413921035)
+[22:35:31] [Server thread/INFO]: Pyromaniac707 joined the game
+[22:35:36] [Server thread/INFO]: Pyromaniac707 lost connection: Disconnected
+[22:35:36] [Server thread/INFO]: Pyromaniac707 left the game
+[22:39:03] [User Authenticator #10/INFO]: UUID of player Pyromaniac707 is 03a9acea-a02a-4cc4-9885-be25b0b19719
+[22:39:03] [Server thread/INFO]: Pyromaniac707[/184.23.19.6:64229] logged in with entity id 1853 at (-370.43885911983733, 69.0, -55.07044413921035)
+[22:39:03] [Server thread/INFO]: Pyromaniac707 joined the game
+[22:40:54] [User Authenticator #11/INFO]: UUID of player kilometers3461 is 2731c3ef-d5ee-4b6e-808f-b274a8f3f147
+[22:40:54] [Server thread/INFO]: kilometers3461[/184.23.19.6:54103] logged in with entity id 2087 at (-365.40108721516935, 70.0, -22.447572258975075)
+[22:40:54] [Server thread/INFO]: kilometers3461 joined the game
+[22:41:00] [Server thread/WARN]: Pyromaniac707 moved too quickly! -9.765696539341377,0.0,-2.854242041094011
+[22:43:49] [Server thread/INFO]: Pyromaniac707 lost connection: Timed out
+[22:43:49] [Server thread/INFO]: Pyromaniac707 left the game
+[22:43:49] [Server thread/WARN]: handleDisconnection() called twice
+[22:44:07] [User Authenticator #12/INFO]: UUID of player Pyromaniac707 is 03a9acea-a02a-4cc4-9885-be25b0b19719
+[22:44:07] [Server thread/INFO]: Pyromaniac707[/184.23.19.6:64245] logged in with entity id 2603 at (-355.0344130242807, 69.0, -25.68878744016424)
+[22:44:07] [Server thread/INFO]: Pyromaniac707 joined the game
+[22:44:27] [Server thread/INFO]: Pyromaniac707 lost connection: Disconnected
+[22:44:27] [Server thread/INFO]: Pyromaniac707 left the game
+[22:44:29] [User Authenticator #13/INFO]: UUID of player Pyromaniac707 is 03a9acea-a02a-4cc4-9885-be25b0b19719
+[22:44:29] [Server thread/INFO]: Pyromaniac707[/184.23.19.6:64248] logged in with entity id 2662 at (-371.4353952714436, 71.0, -24.587495437356875)
+[22:44:29] [Server thread/INFO]: Pyromaniac707 joined the game
+[22:44:29] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/2661, l='world', x=-337.51, y=61.45, z=-57.32]
+[22:44:44] [Server thread/INFO]: Pyromaniac707 lost connection: Timed out
+[22:44:44] [Server thread/INFO]: Pyromaniac707 left the game
+[22:44:48] [User Authenticator #14/INFO]: UUID of player Pyromaniac707 is 03a9acea-a02a-4cc4-9885-be25b0b19719
+[22:44:48] [Server thread/INFO]: Pyromaniac707[/184.23.19.6:64250] logged in with entity id 2722 at (-371.4353952714436, 71.0, -24.587495437356875)
+[22:44:48] [Server thread/INFO]: Pyromaniac707 joined the game
+[22:54:49] [Server thread/INFO]: Pyromaniac707 lost connection: Timed out
+[22:54:49] [Server thread/INFO]: Pyromaniac707 left the game
+[22:55:07] [User Authenticator #15/INFO]: UUID of player Pyromaniac707 is 03a9acea-a02a-4cc4-9885-be25b0b19719
+[22:55:07] [Server thread/INFO]: Pyromaniac707[/184.23.19.6:64300] logged in with entity id 4176 at (-334.12058088735904, 71.0, -48.616226341027)
+[22:55:07] [Server thread/INFO]: Pyromaniac707 joined the game
+[23:00:00] [Server thread/INFO]: Pyromaniac707 lost connection: Disconnected
+[23:00:00] [Server thread/INFO]: Pyromaniac707 left the game
+[23:00:28] [Server thread/INFO]: kilometers3461 was shot by Pillager
+[23:02:23] [Server thread/INFO]: kilometers3461 has made the advancement [Voluntary Exile]
+[23:02:23] [Server thread/INFO]: kilometers3461 has made the advancement [Monster Hunter]
+[23:09:04] [Server thread/INFO]: Villager axw['Nitwit'/168, l='world', x=-386.50, y=63.42, z=-232.30] died, message: 'Nitwit was shot by Pillager'
+[23:11:02] [Server thread/INFO]: Villager axw['Leatherworker'/145, l='world', x=-391.49, y=63.17, z=-238.28] died, message: 'Leatherworker was shot by Pillager'
+[23:11:04] [Server thread/INFO]: Villager axw['Cartographer'/144, l='world', x=-379.50, y=67.00, z=-228.30] died, message: 'Cartographer was slain by Ravager'
+[23:11:27] [Server thread/INFO]: Villager axw['Weaponsmith'/64, l='world', x=-346.43, y=63.00, z=-265.71] died, message: 'Weaponsmith was slain by Ravager'
+[23:20:56] [Server thread/INFO]: kilometers3461 has made the advancement [Acquire Hardware]
