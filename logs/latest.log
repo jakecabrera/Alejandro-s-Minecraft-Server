@@ -120,3 +120,78 @@
 [23:11:04] [Server thread/INFO]: Villager axw['Cartographer'/144, l='world', x=-379.50, y=67.00, z=-228.30] died, message: 'Cartographer was slain by Ravager'
 [23:11:27] [Server thread/INFO]: Villager axw['Weaponsmith'/64, l='world', x=-346.43, y=63.00, z=-265.71] died, message: 'Weaponsmith was slain by Ravager'
 [23:20:56] [Server thread/INFO]: kilometers3461 has made the advancement [Acquire Hardware]
+[23:42:30] [Server thread/INFO]: Unknown command
+[23:42:30] [Server thread/INFO]: ?<--[HERE]
+[23:42:34] [Server thread/INFO]: /advancement (grant|revoke)
+[23:42:34] [Server thread/INFO]: /ban <targets> [<reason>]
+[23:42:34] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[23:42:34] [Server thread/INFO]: /banlist [ips|players]
+[23:42:34] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[23:42:34] [Server thread/INFO]: /clear [<targets>]
+[23:42:34] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[23:42:34] [Server thread/INFO]: /data (get|merge|modify|remove)
+[23:42:34] [Server thread/INFO]: /datapack (disable|enable|list)
+[23:42:34] [Server thread/INFO]: /debug (report|start|stop)
+[23:42:34] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[23:42:34] [Server thread/INFO]: /deop <targets>
+[23:42:34] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[23:42:34] [Server thread/INFO]: /effect (clear|give)
+[23:42:34] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[23:42:34] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[23:42:34] [Server thread/INFO]: /experience (add|query|set)
+[23:42:34] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[23:42:34] [Server thread/INFO]: /forceload (add|query|remove)
+[23:42:34] [Server thread/INFO]: /function <name>
+[23:42:34] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[23:42:34] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[23:42:34] [Server thread/INFO]: /give <targets> <item> [<count>]
+[23:42:34] [Server thread/INFO]: /help [<command>]
+[23:42:34] [Server thread/INFO]: /kick <targets> [<reason>]
+[23:42:34] [Server thread/INFO]: /kill [<targets>]
+[23:42:34] [Server thread/INFO]: /list [uuids]
+[23:42:34] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[23:42:34] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[23:42:34] [Server thread/INFO]: /me <action>
+[23:42:34] [Server thread/INFO]: /msg <targets> <message>
+[23:42:34] [Server thread/INFO]: /op <targets>
+[23:42:34] [Server thread/INFO]: /pardon <targets>
+[23:42:34] [Server thread/INFO]: /pardon-ip <target>
+[23:42:34] [Server thread/INFO]: /particle <name> [<pos>]
+[23:42:34] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[23:42:34] [Server thread/INFO]: /recipe (give|take)
+[23:42:34] [Server thread/INFO]: /reload
+[23:42:34] [Server thread/INFO]: /replaceitem (block|entity)
+[23:42:34] [Server thread/INFO]: /save-all [flush]
+[23:42:34] [Server thread/INFO]: /save-off
+[23:42:34] [Server thread/INFO]: /save-on
+[23:42:34] [Server thread/INFO]: /say <message>
+[23:42:34] [Server thread/INFO]: /schedule (clear|function)
+[23:42:34] [Server thread/INFO]: /scoreboard (objectives|players)
+[23:42:34] [Server thread/INFO]: /seed
+[23:42:34] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[23:42:34] [Server thread/INFO]: /setidletimeout <minutes>
+[23:42:34] [Server thread/INFO]: /setworldspawn [<pos>]
+[23:42:34] [Server thread/INFO]: /spawnpoint [<targets>]
+[23:42:34] [Server thread/INFO]: /spectate [<target>]
+[23:42:34] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[23:42:34] [Server thread/INFO]: /stop
+[23:42:34] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[23:42:34] [Server thread/INFO]: /summon <entity> [<pos>]
+[23:42:34] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[23:42:34] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[23:42:34] [Server thread/INFO]: /teammsg <message>
+[23:42:34] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[23:42:34] [Server thread/INFO]: /tell -> msg
+[23:42:34] [Server thread/INFO]: /tellraw <targets> <message>
+[23:42:34] [Server thread/INFO]: /time (add|query|set)
+[23:42:34] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[23:42:34] [Server thread/INFO]: /tm -> teammsg
+[23:42:34] [Server thread/INFO]: /tp -> teleport
+[23:42:34] [Server thread/INFO]: /trigger <objective> [add|set]
+[23:42:34] [Server thread/INFO]: /w -> msg
+[23:42:34] [Server thread/INFO]: /weather (clear|rain|thunder)
+[23:42:34] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[23:42:34] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[23:42:34] [Server thread/INFO]: /xp -> experience
+[23:46:15] [Server thread/INFO]: kilometers3461 has made the advancement [Hot Stuff]
+[23:50:20] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/12605, l='world', x=-408.50, y=48.35, z=-97.60]
