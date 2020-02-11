@@ -1,1 +1,0 @@
-runas /user:SHAKE-AND-BAKE\Bake /savecred C:\Users\jakes\Desktop\Alejandros_Minecraft_Server\auto_commit.bat
