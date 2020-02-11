@@ -37,3 +37,5 @@
 [08:22:26] [Server thread/INFO]: Preparing spawn area: 17%
 [08:22:26] [Server thread/INFO]: Time elapsed: 10325 ms
 [08:22:26] [Server thread/INFO]: Done (13.371s)! For help, type "help"
+[10:42:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1198ca0[id=<null>,name=Nicky11121999,properties={},legacy=false] (/34.207.117.183:55760) lost connection: Disconnected
+[10:42:12] [User Authenticator #1/INFO]: UUID of player Nicky11121999 is 2c0fa294-1669-4524-a441-9aae7aeb6863
