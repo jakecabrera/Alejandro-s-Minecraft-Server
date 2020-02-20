@@ -1,5 +1,1 @@
-[17:52:41] [User Authenticator #2/INFO]: UUID of player Pyromaniac707 is 03a9acea-a02a-4cc4-9885-be25b0b19719
-[17:52:41] [Server thread/INFO]: Pyromaniac707[/184.23.19.6:51564] logged in with entity id 250 at (-349.6540901553598, 71.0, -70.28554126593788)
-[17:52:41] [Server thread/INFO]: Pyromaniac707 joined the game
-[17:53:05] [Server thread/INFO]: Pyromaniac707 lost connection: Disconnected
-[17:53:05] [Server thread/INFO]: Pyromaniac707 left the game
+[22:09:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@670fa02[id=<null>,name=NeoRusher,properties={},legacy=false] (/3.85.114.190:38304) lost connection: Disconnected
